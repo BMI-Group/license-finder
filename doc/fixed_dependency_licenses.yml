@@ -1,0 +1,10 @@
+---
+- - :license
+  - callsite
+  - MIT
+  - :who: Mahesh Warnasooriya
+    :why: License file is not available in the repository. But the documentation specifies
+      it as MIT.
+    :versions:
+    - 1.0.0
+    :when: 2025-09-08 09:15:53.838653000 Z
